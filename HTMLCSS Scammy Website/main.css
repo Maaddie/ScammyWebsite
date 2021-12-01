@@ -1,0 +1,81 @@
+
+
+
+body{
+    background-image: url(Vibranium.jfif);
+}
+
+.centerElement{
+    margin-right: auto;
+    margin-left: auto;
+    font-display: swap;
+}
+
+#HomePageHeader{
+    font-family:'Lucida Sans';
+    color:magenta;
+    font-size: 45px;
+    font-weight: bolder;
+    text-align: center;
+    padding: 50px;
+    border: 20px solid hotpink;
+    margin-top: auto;
+    background-color:mediumblue;
+}
+
+#Header{
+    
+    left: 30%;
+    right: 30%;
+    top: 0;
+}
+
+#Text{
+    font-family: Arial, Helvetica, sans-serif;
+    color:magenta;
+    display: ruby-text;
+    
+    justify-content: space-evenly;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+img{
+
+    border: 3px solid hotpink;
+    display:table-column;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+#DealPrice{
+font-family: 'Lucida Sans';
+color: yellow;
+font-weight: bold;
+margin-bottom: auto;
+font-size: 35px;
+
+}
+
+.button{
+    background-color: gold;
+    border:firebrick;
+    color:red;
+    padding: 30px 45px;
+    text-align: center;
+    
+    display: inline-block;
+    font-size: 20px;
+    font-weight: bold;
+
+    
+    }
+
+#Form{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:tomato;
+    font-weight: bold;
+    font-size: 20px;
+} 
+
+
